@@ -2,7 +2,7 @@
 CODING TEST DONE FOR COMPANY XYZ (NOT REAL NAME)
 
 * Position: Senior Unity Programmer.
-* Code Test Requirements: [Document_URL](https://github.com/EstebanGameDevelopment/CodingTestXYZ/blob/6c4a7b6e984e04b49c02525b988b947808808231/Documents/Coding%20Test%20Company%20XYZ%20(en).pdf)
+* Code Test Requirements: [Code Test Design Requirements](https://github.com/EstebanGameDevelopment/CodingTestXYZ/blob/6c4a7b6e984e04b49c02525b988b947808808231/Documents/Coding%20Test%20Company%20XYZ%20(en).pdf)
 * Time to complete: 3.5 days
 
 ADDITIONAL IMPROMENTS DONE (not part of test, just for the sake of using my tools):
