@@ -268,7 +268,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8927473017644679458, guid: 8005df9858106d148ba1d00631ccdbd1, type: 3}
       propertyPath: EnableSound
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8005df9858106d148ba1d00631ccdbd1, type: 3}
