@@ -1,0 +1,9 @@
+[submodule "Assets/Application/Libraries/yourvrxp-utils"]
+	path = Assets/Application/Libraries/yourvrxp-utils
+	url = https://github.com/EstebanGameDevelopment/yourvrxp-utils
+[submodule "Assets/Application/Libraries/yourvrxp-networking"]
+	path = Assets/Application/Libraries/yourvrxp-networking
+	url = https://github.com/EstebanGameDevelopment/yourvrxp-networking
+[submodule "Assets/Application/Libraries/yourvrxp-vr"]
+	path = Assets/Application/Libraries/yourvrxp-vr
+	url = https://github.com/EstebanGameDevelopment/yourvrxp-vr.git
