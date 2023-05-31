@@ -1,0 +1,193 @@
+<texts>
+
+	<text id="text.exit">
+		<en>Exit</en>
+		<es>Salir</es>
+	</text>
+
+	<text id="text.back">
+		<en>Back</en>
+		<es>Atrás</es>
+	</text>
+
+	<text id="text.ok">
+		<en>Ok</en>
+		<es>Ok</es>
+	</text>
+
+	<text id="text.confirm">
+		<en>Confirm</en>
+		<es>Confirmar</es>
+	</text>
+
+	<text id="text.cancel">
+		<en>Cancel</en>
+		<es>Cancel</es>
+	</text>
+
+	<text id="text.warning">
+		<en>Warning</en>
+		<es>Atención</es>
+	</text>
+
+	<text id="screen.main.do.you.want.to.exit">
+		<en>Do you want to exit the app?</en>
+		<es>Deseas salir de la aplicación?</es>
+	</text>
+
+	<text id="text.info">
+		<en>Information</en>
+		<es>Información</es>
+	</text>
+
+	<text id="text.loading">
+		<en>Loading...</en>
+		<es>Cargando...</es>
+	</text>
+
+	<text id="text.connecting">
+		<en>Connecting...</en>
+		<es>Conectando...</es>
+	</text>
+
+	<text id="screen.main.now.exiting">
+		<en>Now exiting app...</en>
+		<es>Saliendo de la aplicación...</es>
+	</text>
+
+	<text id="screen.main.menu.title">
+		<en>Company XYZ: Code Test</en>
+		<es>Company XYZ: Code Test</es>
+	</text>	
+
+	<text id="screen.main.menu.play.game">
+		<en>Play</en>
+		<es>Jugar</es>
+	</text>	
+
+	<text id="screen.main.menu.play.singleplayer.game">
+		<en>Play Singleplayer</en>
+		<es>Jugar Un Jugador</es>
+	</text>	
+
+	<text id="screen.main.menu.play.multiplayer.game">
+		<en>Play Multiplayer</en>
+		<es>Jugar Multijugador</es>
+	</text>	
+
+	<text id="screen.main.menu.exit.game">
+		<en>Exit</en>
+		<es>Salir</es>
+	</text>	
+
+	<text id="screen.pause.title">
+		<en>Game Paused</en>
+		<es>Juego Pausado</es>
+	</text>	
+
+	<text id="screen.pause.resume.game">
+		<en>Resume Game</en>
+		<es>Resumir Juego</es>
+	</text>	
+
+	<text id="screen.pause.exit.game">
+		<en>Exit to main menu</en>
+		<es>Salir a menu principal</es>
+	</text>	
+
+	<text id="screen.pause.exit.to.main">
+		<en>Do you want to exit to main menu?</en>
+		<es>Deseas salir al menu principal?</es>
+	</text>	
+
+	<text id="screen.release.resources.phase.1">
+		<en>Releasing resources...</en>
+		<es>Liberando recursos...</es>
+	</text>	
+
+	<text id="screen.release.resources.phase.2">
+		<en>Loading main menu...</en>
+		<es>Cargando menu principal...</es>
+	</text>	
+
+	<text id="screen.game.run.starts.now">
+		<en>The game starts now!!!</en>
+		<es>El juego comienza ahora!!!</es>
+	</text>	
+
+	<text id="screen.level.welcome.title">
+		<en>Welcome to the level!!!</en>
+		<es>Bienvenido al nivel!!!</es>
+	</text>	
+
+	<text id="screen.level.welcome.counter">
+		<en>The game starts in </en>
+		<es>El juego empieza en </es>
+	</text>	
+
+	<text id="screen.level.welcome.go">
+		<en>Go!!!</en>
+		<es>Vamos!!!</es>
+	</text>	
+
+	<text id="screen.level.game.over.title">
+		<en>Congratulations!!!</en>
+		<es>Felicidades!!!</es>
+	</text>	
+
+	<text id="screen.level.game.over.description">
+		<en>You have completed the test!!!</en>
+		<es>Has completado el test!!!</es>
+	</text>	
+
+	<text id="screen.pause.left.hand.locomotion">
+		<en>Left Hand</en>
+		<es>Mano Izquierda</es>
+	</text>	
+
+	<text id="screen.pause.right.hand.locomotion">
+		<en>Right Hand</en>
+		<es>Mano Derecha</es>
+	</text>	
+
+	<text id="screen.hud.score">
+		<en>Score:</en>
+		<es>Puntuación:</es>
+	</text>	
+
+	<text id="screen.hud.time">
+		<en>Time:</en>
+		<es>Tiempo:</es>
+	</text>	
+
+	<text id="screen.hud.pause">
+		<en>Pause</en>
+		<es>Pausa</es>
+	</text>	
+
+	<text id="screen.main.menu.highscores.title">
+		<en>Highscores</en>
+		<es>Puntuaciones</es>
+	</text>	
+
+	<text id="screen.main.menu.instructions.vr">
+		<en>Press button trigger to pick up both guns. Then you can interact with the menu buttons.</en>
+		<es>Pulsa el botón disparador para coger ambas armas. Luego interactua con los botones del menú.</es>
+	</text>	
+
+	<text id="screen.main.menu.instructions.play.now.vr">
+		<en>You are ready to play!! Press the buttons!!</en>
+		<es>Estas preparado!! Pulsa el botón para jugar!!</es>
+	</text>	
+
+	<text id="screen.loading.wait.for.players">
+		<en>Waiting for other players...</en>
+		<es>Esperando a otros jugadores...</es>
+	</text>
+
+	<text id="screen.hud.score.player">
+		<en>Player</en>
+		<es>Jugador</es>
+	</text>
+
+</texts>
