@@ -22,7 +22,9 @@
 		* Util tools: https://github.com/EstebanGameDevelopment/yourvrxp-utils.git
 		* VR Tools: https://github.com/EstebanGameDevelopment/yourvrxp-vr.git
 		* Networking Tools (only if you want network comms): https://github.com/EstebanGameDevelopment/yourvrxp-networking.git
-	* The current project has the pre-processor constants ENABLE_OPENXR, ENABLE_NETWORKING, ENABLE_MIRROR. It's ready to plug-and-play with Oculus Link. If you don't want the networking part, just remove the pre-processor constant ENABLE_NETWORKING and you will be ready to go.
+	* The current project has the pre-processor constants ENABLE_OPENXR, ENABLE_NETWORKING, ENABLE_MIRROR. It's ready to plug-and-play with Oculus Link. 
+	 	* If you don't want the networking part, just remove the pre-processor constant ENABLE_NETWORKING and you will be ready to go.
+	 	* If you want to run it without VR just remove the pre-processor ENABLE_OPENXR and you will be ready to go.
 	
 ## BUILDS TESTED IN REAL DEVICES (Using Mirror networking with NetworkDiscovery):
 
