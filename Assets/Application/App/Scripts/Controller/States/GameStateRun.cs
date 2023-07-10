@@ -100,7 +100,7 @@ namespace companyX.codingtest
 #if (ENABLE_OCULUS || ENABLE_OPENXR || ENABLE_ULTIMATEXR)
 				Vector3 positionHUD = VRInputController.Instance.Camera.transform.position + VRInputController.Instance.Camera.transform.forward * 3;
 				ScreenController.Instance.CreateWorldScreen(ScreenHUDView.ScreenNameNormal, positionHUD, 
-																VRInputController.Instance.Camera.transform.forward, ScreenController.SizeVRScreen * 2, true, false);
+																VRInputController.Instance.Camera.transform.forward, ScreenController.Instance.SizeVRScreen * 2, true, false);
 #else
 #if UNITY_ANDROID && !UNITY_EDITOR
 				ScreenController.Instance.CreateScreen(ScreenHUDView.ScreenNameMobile, true, false);
@@ -194,7 +194,7 @@ namespace companyX.codingtest
 #else
 					Vector3 forwardWelcome = Camera.main.transform.forward;					
 					Vector3 positionWelcome = Camera.main.transform.position + forwardWelcome * ScreenController.Instance.DistanceScreen;
-					ScreenController.Instance.CreateWorldScreen(ScreenLevelWelcomeView.ScreenName, positionWelcome, forwardWelcome, ScreenController.SizeVRScreen, true, false);
+					ScreenController.Instance.CreateWorldScreen(ScreenLevelWelcomeView.ScreenName, positionWelcome, forwardWelcome, ScreenController.Instance.SizeVRScreen, true, false);
 #endif					
 #endif					
 					SystemEventController.Instance.DispatchSystemEvent(ScreenLevelWelcomeView.EventScreenLevelWelcomeViewUpdateText, GetWelcomeMessageCounter());
