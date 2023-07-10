@@ -368,7 +368,7 @@ namespace companyX.codingtest
 						_levelView.transform.position = Vector3.zero;
 						_levelView.ReportInited();
 						SystemEventController.Instance.DispatchSystemEvent(EventMainControllerLocalPlayerViewAssigned);
-#if ENABLE_OCULUS || ENABLE_OPENXR || ENABLE_ULTIMATEXR
+#if (ENABLE_OCULUS || ENABLE_OPENXR || ENABLE_ULTIMATEXR) && ENABLE_NETWORKING
 						NetworkController.Instance.CreateNetworkPrefab(false, PlayerViewHandLeftPrefab.name, PlayerViewHandLeftPrefab.gameObject, "GameElements\\Player\\" + PlayerViewHandLeftPrefab.name, new Vector3(0, 0, 0), Quaternion.identity, 0);
 						NetworkController.Instance.CreateNetworkPrefab(false, PlayerViewHandRightPrefab.name, PlayerViewHandRightPrefab.gameObject, "GameElements\\Player\\" + PlayerViewHandRightPrefab.name, new Vector3(0, 0, 0), Quaternion.identity, 0);
 #endif					
