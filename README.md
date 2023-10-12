@@ -10,7 +10,7 @@
 * **Multiplayer (1 day)**
 	* Use pre-processor constant ENABLE_NETWORKING to enable the networking code. Without it you don't need to have the networking library (https://github.com/EstebanGameDevelopment/yourvrxp-networking).
 	* Use pre-processor constant ENABLE_MIRROR for Mirror SDK networking.
-	* Use pre-processor cosntant ENABLE_PHOTON for Photon SDK networking (Photon SDK not included, requires the purchase of Photon library)
+	* Use pre-processor cosntant ENABLE_PHOTON for Photon SDK networking (Photon SDK not included, requires the purchase of Photon library).
 * **Support Open XR (0.5 days)**
 	* Use pre-processor constant ENABLE_OPENXR for OpenXR.
 	* Use pre-processor constant ENABLE_OCULUS for Oculus/Meta.
